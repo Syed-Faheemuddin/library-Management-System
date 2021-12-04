@@ -40,8 +40,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`aid`, `name`, `password`) VALUES
-('admin', 'Admin User', 'd033e22ae348aeb5660fc2140aec35850c4da997'),
-('techvegan', 'Admin', '534fc3dc50b1573791f6e96d62f18e0280ab4367');
+('admin', 'Admin User', 'd033e22ae348aeb5660fc2140aec35850c4da997');
 
 -- --------------------------------------------------------
 
